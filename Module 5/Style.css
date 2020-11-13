@@ -1,0 +1,38 @@
+
+#firstline {
+    color: red
+}
+#secondline{
+    color:blue
+}
+#thirdline{
+    color:green
+}
+
+#fourthline{
+    font-size: 48px;
+}
+#fithline{
+    font-size: 12px;
+}
+#centeredline {
+    text-align: center;
+}
+#makeitbold{
+    font-weight: bold;
+}
+#fontfamily{
+    font-family:cursive;
+}
+#bigorangeandbold{
+    font-size: 30px;
+    font-weight: bold;
+    color:orange;
+}
+.styledFont {
+    font-size: 45px;
+    color:rgb(98, 0, 128)
+}
+img{
+    border: 15px solid rgba(238, 110, 5, 0.986);
+}
